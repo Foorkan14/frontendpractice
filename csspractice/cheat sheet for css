@@ -20,8 +20,10 @@ element + element
 :first-child
 !important (not recommended)
 
+-when we wrap something in a div we do that so that we can section some elements off and decide what style we want to apply on those elements that are within the div
+
 
 What seletors win out in the cascade depends on:
--Specificity
+-Specificity: more specific something is the higher its chances are of being applied
 -Importance
 -Source Order
